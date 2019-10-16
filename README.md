@@ -5,7 +5,7 @@
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/401-advanced-javascript-kimball/l02-classes/pull/1)
 * [travis](https://travis-ci.com/401-advanced-javascript-kimball/l02-classes)
 * [front-end](https://jk-401js-lab02.herokuapp.com) (when applicable)
 
