@@ -6,14 +6,11 @@
 
 ### Links and Resources
 * [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [travis](https://travis-ci.com/401-advanced-javascript-kimball/l02-classes)
+* [front-end](https://jk-401js-lab02.herokuapp.com) (when applicable)
 
 #### Documentation
-* [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
+* [jsdoc](https://jk-401js-lab02.herokuapp.com/docs)
 
 ### Modules
 #### `modulename.js`
